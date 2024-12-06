@@ -1,0 +1,25 @@
+{
+    "player": {
+        "name": "Klee",
+        "health": 64.0,
+        "damage": 15,
+        "armor": 10,
+        "resist": 0.10097640224704507
+    },
+    "enemy": {
+        "name": "Qiqi",
+        "health": 84.24132528180067,
+        "damage": 10,
+        "armor": 8,
+        "resist": 0.29720596580003145
+    },
+    "turn": 4,
+    "history": [
+        "Klee attacked Qiqi for 4.92 damage.",
+        "Qiqi attacked Klee for 0.00 damage.",
+        "Klee attacked Qiqi for 4.92 damage.",
+        "Qiqi attacked Klee for 0.00 damage.",
+        "Klee attacked Qiqi for 4.92 damage.",
+        "Qiqi attacked Klee for 0.00 damage."
+    ]
+}
